@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "859081774fabd990a269",
-    "url": "/prodigy/css/index.205adbe7.css"
+    "revision": "62d867c98a165837a92f",
+    "url": "/prodigy/css/index.08c2c3c7.css"
   },
   {
     "revision": "7311649a6b07d67810c3d9a18b9286d9",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prodigy/img/uncle_sam_v2.a3682c6c.png"
   },
   {
-    "revision": "f83362a5a20341622637009add6e82e0",
+    "revision": "9628260dc82f7afd043f2f463d720605",
     "url": "/prodigy/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prodigy/js/chunk-vendors.18d2c289.js"
   },
   {
-    "revision": "859081774fabd990a269",
-    "url": "/prodigy/js/index.d1e0bc53.js"
+    "revision": "62d867c98a165837a92f",
+    "url": "/prodigy/js/index.7172ac7a.js"
   },
   {
     "revision": "e01e92ef9d4f3a461bd4114feaa87dd4",

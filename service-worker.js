@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/prodigy/precache-manifest.0bd8b089101de5e96107273c0ffe955d.js"
+  "/prodigy/precache-manifest.7cbe55129dfd6991530093253913d012.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "prodigy"});
